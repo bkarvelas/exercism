@@ -1,2 +1,2 @@
-# exercism
+# Exercism
 Coding Katas
