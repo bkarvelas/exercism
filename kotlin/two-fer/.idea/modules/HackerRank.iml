@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="D:/Development/KotlinProjects/HackerRankTesting" rootProjectPath="D:/Development/KotlinProjects/HackerRankTesting" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://D:/Development/KotlinProjects/HackerRankTesting" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

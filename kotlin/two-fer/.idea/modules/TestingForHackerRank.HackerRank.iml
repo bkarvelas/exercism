@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="HackerRank" external.linked.project.path="D:/Development/KotlinProjects/HackerRankTesting" external.root.project.path="D:/Development/KotlinProjects/HackerRankTesting" external.system.id="GRADLE" external.system.module.group="TestingForHackerRank" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="D:/Development/KotlinProjects/HackerRankTesting" rootProjectPath="D:/Development/KotlinProjects/HackerRankTesting" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://D:/Development/KotlinProjects/HackerRankTesting">
+      <excludeFolder url="file://D:/Development/KotlinProjects/HackerRankTesting/.gradle" />
+      <excludeFolder url="file://D:/Development/KotlinProjects/HackerRankTesting/build" />
+      <excludeFolder url="file://D:/Development/KotlinProjects/HackerRankTesting/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

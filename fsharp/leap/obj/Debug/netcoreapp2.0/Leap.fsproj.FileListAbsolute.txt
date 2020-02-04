@@ -1,0 +1,11 @@
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\Leap.deps.json
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\Leap.runtimeconfig.json
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\Leap.runtimeconfig.dev.json
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\Leap.dll
+D:\exercism\fsharp\leap\bin\Debug\netcoreapp2.0\Leap.pdb
+D:\exercism\fsharp\leap\obj\Debug\netcoreapp2.0\Leap.fsproj.CoreCompileInputs.cache
+D:\exercism\fsharp\leap\obj\Debug\netcoreapp2.0\Leap.dll
+D:\exercism\fsharp\leap\obj\Debug\netcoreapp2.0\Leap.pdb

@@ -1,0 +1,14 @@
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.deps.json
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.runtimeconfig.json
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.runtimeconfig.dev.json
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.dll
+D:\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.pdb
+D:\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.csproj.CoreCompileInputs.cache
+D:\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.AssemblyInfoInputs.cache
+D:\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.AssemblyInfo.cs
+D:\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.dll
+D:\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.pdb
+D:\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.csprojAssemblyReference.cache

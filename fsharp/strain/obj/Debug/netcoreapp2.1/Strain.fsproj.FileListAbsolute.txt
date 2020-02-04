@@ -1,0 +1,15 @@
+G:\exercism\fsharp\strain\obj\Debug\netcoreapp2.1\Strain.fsprojAssemblyReference.cache
+G:\exercism\fsharp\strain\obj\Debug\netcoreapp2.1\Strain.AssemblyInfoInputs.cache
+G:\exercism\fsharp\strain\obj\Debug\netcoreapp2.1\Strain.AssemblyInfo.fs
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\testhost.exe
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\testhost.dll
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\Strain.deps.json
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\Strain.runtimeconfig.json
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\Strain.runtimeconfig.dev.json
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\Strain.dll
+G:\exercism\fsharp\strain\bin\Debug\netcoreapp2.1\Strain.pdb
+G:\exercism\fsharp\strain\obj\Debug\netcoreapp2.1\Strain.dll
+G:\exercism\fsharp\strain\obj\Debug\netcoreapp2.1\Strain.pdb

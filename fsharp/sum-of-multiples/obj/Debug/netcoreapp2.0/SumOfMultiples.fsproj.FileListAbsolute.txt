@@ -1,0 +1,10 @@
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.deps.json
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.runtimeconfig.json
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.runtimeconfig.dev.json
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.dll
+D:\exercism\fsharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.pdb
+D:\exercism\fsharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.dll
+D:\exercism\fsharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.pdb

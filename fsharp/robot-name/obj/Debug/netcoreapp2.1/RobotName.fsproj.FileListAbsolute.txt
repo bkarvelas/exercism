@@ -1,0 +1,13 @@
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\RobotName.deps.json
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\RobotName.runtimeconfig.json
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\RobotName.runtimeconfig.dev.json
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\RobotName.dll
+D:\exercism\fsharp\robot-name\bin\Debug\netcoreapp2.1\RobotName.pdb
+D:\exercism\fsharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.fsprojAssemblyReference.cache
+D:\exercism\fsharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.AssemblyInfoInputs.cache
+D:\exercism\fsharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.AssemblyInfo.fs
+D:\exercism\fsharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.dll
+D:\exercism\fsharp\robot-name\obj\Debug\netcoreapp2.1\RobotName.pdb

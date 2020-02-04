@@ -1,0 +1,13 @@
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.deps.json
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.runtimeconfig.json
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.runtimeconfig.dev.json
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.dll
+D:\exercism\fsharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.pdb
+D:\exercism\fsharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.fsprojAssemblyReference.cache
+D:\exercism\fsharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.AssemblyInfoInputs.cache
+D:\exercism\fsharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.AssemblyInfo.fs
+D:\exercism\fsharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.dll
+D:\exercism\fsharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.pdb

@@ -1,0 +1,13 @@
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.deps.json
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.runtimeconfig.json
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.runtimeconfig.dev.json
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.dll
+D:\exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.pdb
+D:\exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.fsprojAssemblyReference.cache
+D:\exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.AssemblyInfoInputs.cache
+D:\exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.AssemblyInfo.fs
+D:\exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.dll
+D:\exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.pdb

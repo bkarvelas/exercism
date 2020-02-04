@@ -1,0 +1,13 @@
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.deps.json
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.runtimeconfig.json
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.runtimeconfig.dev.json
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.dll
+G:\exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.pdb
+G:\exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.fsprojAssemblyReference.cache
+G:\exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.AssemblyInfoInputs.cache
+G:\exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.AssemblyInfo.fs
+G:\exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.dll
+G:\exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.pdb

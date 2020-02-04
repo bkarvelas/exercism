@@ -1,0 +1,13 @@
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.deps.json
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.json
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.dev.json
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.dll
+D:\exercism\fsharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.pdb
+D:\exercism\fsharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.fsprojAssemblyReference.cache
+D:\exercism\fsharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfoInputs.cache
+D:\exercism\fsharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfo.fs
+D:\exercism\fsharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.dll
+D:\exercism\fsharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.pdb

@@ -1,0 +1,13 @@
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\Hamming.deps.json
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\Hamming.runtimeconfig.json
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\Hamming.runtimeconfig.dev.json
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\Hamming.dll
+D:\exercism\fsharp\hamming\bin\Debug\netcoreapp2.1\Hamming.pdb
+D:\exercism\fsharp\hamming\obj\Debug\netcoreapp2.1\Hamming.fsprojAssemblyReference.cache
+D:\exercism\fsharp\hamming\obj\Debug\netcoreapp2.1\Hamming.AssemblyInfoInputs.cache
+D:\exercism\fsharp\hamming\obj\Debug\netcoreapp2.1\Hamming.AssemblyInfo.fs
+D:\exercism\fsharp\hamming\obj\Debug\netcoreapp2.1\Hamming.dll
+D:\exercism\fsharp\hamming\obj\Debug\netcoreapp2.1\Hamming.pdb

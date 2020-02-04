@@ -1,0 +1,16 @@
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\testhost.exe
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\testhost.dll
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\Grains.deps.json
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\Grains.runtimeconfig.json
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\Grains.runtimeconfig.dev.json
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\Grains.dll
+G:\exercism\csharp\grains\bin\Debug\netcoreapp2.1\Grains.pdb
+G:\exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.csprojAssemblyReference.cache
+G:\exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.csproj.CoreCompileInputs.cache
+G:\exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.AssemblyInfoInputs.cache
+G:\exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.AssemblyInfo.cs
+G:\exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.dll
+G:\exercism\csharp\grains\obj\Debug\netcoreapp2.1\Grains.pdb

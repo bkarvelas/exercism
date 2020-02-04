@@ -1,0 +1,10 @@
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\CollatzConjecture.deps.json
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\CollatzConjecture.runtimeconfig.json
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\CollatzConjecture.runtimeconfig.dev.json
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\CollatzConjecture.dll
+D:\exercism\fsharp\collatz-conjecture\bin\Debug\netcoreapp2.0\CollatzConjecture.pdb
+D:\exercism\fsharp\collatz-conjecture\obj\Debug\netcoreapp2.0\CollatzConjecture.dll
+D:\exercism\fsharp\collatz-conjecture\obj\Debug\netcoreapp2.0\CollatzConjecture.pdb

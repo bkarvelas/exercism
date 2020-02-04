@@ -1,0 +1,13 @@
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\Pangram.deps.json
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\Pangram.runtimeconfig.json
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\Pangram.runtimeconfig.dev.json
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\Pangram.dll
+D:\exercism\fsharp\pangram\bin\Debug\netcoreapp2.1\Pangram.pdb
+D:\exercism\fsharp\pangram\obj\Debug\netcoreapp2.1\Pangram.fsprojAssemblyReference.cache
+D:\exercism\fsharp\pangram\obj\Debug\netcoreapp2.1\Pangram.AssemblyInfoInputs.cache
+D:\exercism\fsharp\pangram\obj\Debug\netcoreapp2.1\Pangram.AssemblyInfo.fs
+D:\exercism\fsharp\pangram\obj\Debug\netcoreapp2.1\Pangram.dll
+D:\exercism\fsharp\pangram\obj\Debug\netcoreapp2.1\Pangram.pdb

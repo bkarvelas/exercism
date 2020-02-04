@@ -1,0 +1,13 @@
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.deps.json
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.runtimeconfig.json
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.runtimeconfig.dev.json
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.dll
+D:\exercism\fsharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.pdb
+D:\exercism\fsharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.fsprojAssemblyReference.cache
+D:\exercism\fsharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.AssemblyInfoInputs.cache
+D:\exercism\fsharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.AssemblyInfo.fs
+D:\exercism\fsharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.dll
+D:\exercism\fsharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.pdb
