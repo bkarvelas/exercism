@@ -1,5 +1,5 @@
 # Exercism
-Coding Katas
+Code Katas
 * CSharp
 * FSharp
 * Java
